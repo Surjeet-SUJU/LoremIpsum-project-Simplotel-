@@ -64,3 +64,12 @@ button {
 	height: 100%;
 }
 
+.headerIcon:hover {
+	color: lavender;
+	transform: scale(1.2);
+}
+
+
+button:active {
+    transform: scale(0.9);
+}

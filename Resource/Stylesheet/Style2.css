@@ -65,3 +65,7 @@ main {
 	height: 35px;
 	width: 35px;
 }
+
+#arrow:active {
+	transform: scale(0.9);
+}
